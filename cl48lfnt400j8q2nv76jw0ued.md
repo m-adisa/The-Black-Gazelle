@@ -67,7 +67,7 @@ typedef struct builtin_s
 ```
 **Nothing beats a firm foundation**, and that is exactly what will make you use Google responsibly. You won't have to try; it will happen.
 
-The code I have written is a doubly linked list. If you know what the built-in data types are, how to create yours with struct, rename it with typedef and what a pointer is, you should immediately understand what I wrote.
+The code I have written is a doubly linked list. A doubly linked list is a type of linear data structure that is bi-directional. If you know what the built-in data types are, how to create yours with struct, rename it with typedef and what a pointer is, you should immediately understand what I wrote.
 
 Alright, I agree that it might not immediately jump right at you, but you will recognize the elements and your brain will immediately try to make connections. There is a lot of code internet, badly written ones too. You can not soak it all up like a sponge, you need to be able to discern.
 
@@ -105,4 +105,4 @@ One implication of this is that the platform you develop for is important. C is 
 
 Cheers to victory...**at all costs.**
 
-> If you are wondering why I titled this article *Making sense of modern civilization*, it is because of one undisputable fact: *Modern civilization depends on computers and 90% of the software that runs the world is either implemented in C or something closely related to C.*
+> If you are wondering why I titled this article *Making sense of modern civilization*, it is because of one indisputable fact: *Modern civilization depends on computers and 90% of the software that runs the world is either implemented in C or something closely related to C.*
