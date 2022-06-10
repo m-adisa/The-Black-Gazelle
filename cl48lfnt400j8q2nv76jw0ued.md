@@ -11,7 +11,7 @@ I do not think it gets more low-level than C programming, so all my references s
 It is the second sprint of the [Software Engineering program at ALX Africa](https://www.alxafrica.com/) and it has been all things Python for the past weeks. Easy.
 ![c thinking.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1654805100873/0MDYODt86.jpg align="center")
 
-The emails come in around 6:15 each morning and they always talk about the day's project and any other announcement or event. On this day, the subject of the email was **"0x17. C - Doubly Linked Lists"**.
+The emails come in around 6:15 each morning and they always describe the day's project and convey other necessary information. On this day, the subject of the email was **"0x17. C - Doubly Linked Lists"**.
 
 I'll skip my exact reaction when I saw it (you'll figure it out before the end of reading this, I promise). What you need to know is that I immediately realized that war was imminent. The first place I went to was [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/).
 
