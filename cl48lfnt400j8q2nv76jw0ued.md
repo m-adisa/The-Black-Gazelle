@@ -13,7 +13,7 @@ It is the second sprint of the [Software Engineering program at ALX Africa](http
 
 The emails come in around 6:15 each morning and they always describe the day's project and convey other necessary information. On this day, the subject of the email was **"0x17. C - Doubly Linked Lists"**.
 
-I'll skip my exact reaction when I saw it (you'll figure it out before the end of reading this, I promise). What you need to know is that I immediately realized that war was imminent. The first place I went to was [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/).
+I'll skip my reaction when I first saw it for now (you'll figure it out before the end of reading this, I promise). What you need to know is that I immediately realized that war was imminent. The first place I went to was [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/).
 
 *And here is your first tip as a low-level programmer:*
 > Read first. Always read first, even if you know what to do.
