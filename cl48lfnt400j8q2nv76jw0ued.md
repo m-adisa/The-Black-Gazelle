@@ -76,7 +76,7 @@ An important part of firmly grasping the basics is **mastering the syntax**. Yes
 Which brings me to the next point...
 
 ## The Logic 
-I do not believe low-level languages were designed with readability in mind. Mastering the syntax helps in making sense of the elements, but you must master another skill to be adept at grasping the logic at a glance: *PATIENCE*. I get the irony there, but be patient - you'll see what I mean.
+I do not believe low-level languages were designed with readability in mind. Mastering the syntax helps in making sense of the elements, but you must master another skill to become adept at grasping the logic at a glance: *PATIENCE*. I get the irony there, but be patient - you'll see what I mean.
 
 Code is read more times than it is written. Since the syntax you're dealing with is not straight forward, it becomes super easy to miss the logic ("algorithm" if you will) as you read. The correct approach is to make simple notes (or diagrams) as you read. Read that again:
 > make simple notes (or diagrams) as you read.
